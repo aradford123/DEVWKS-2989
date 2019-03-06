@@ -1,0 +1,3 @@
+#!/bin/bash
+pip uninstall tornado
+pip install tornado==5.1.1
